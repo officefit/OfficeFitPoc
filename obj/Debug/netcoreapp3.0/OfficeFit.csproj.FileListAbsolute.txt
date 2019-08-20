@@ -1,0 +1,8 @@
+C:\Users\josephfreeman\source\repos\OfficeFit\OfficeFit\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\josephfreeman\source\repos\OfficeFit\OfficeFit\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\josephfreeman\source\repos\OfficeFit\OfficeFit\bin\Debug\netcoreapp3.0\OfficeFit.exe
+C:\Users\josephfreeman\source\repos\OfficeFit\OfficeFit\obj\Debug\netcoreapp3.0\staticwebassets\OfficeFit.StaticWebAssets.Manifest.cache
+C:\Users\josephfreeman\source\repos\OfficeFit\OfficeFit\obj\Debug\netcoreapp3.0\staticwebassets\OfficeFit.StaticWebAssets.xml
+C:\Users\josephfreeman\source\repos\OfficeFit\OfficeFit\obj\Debug\netcoreapp3.0\OfficeFit.AssemblyInfoInputs.cache
+C:\Users\josephfreeman\source\repos\OfficeFit\OfficeFit\obj\Debug\netcoreapp3.0\OfficeFit.AssemblyInfo.cs
+C:\Users\josephfreeman\source\repos\OfficeFit\OfficeFit\obj\Debug\netcoreapp3.0\OfficeFit.RazorTargetAssemblyInfo.cache
